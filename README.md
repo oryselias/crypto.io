@@ -1,7 +1,7 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
 ## Description
-Cryptocurrency Tracker App with full responsive functionality. The App allows users to track the current prices of their favourite cryptocurrencies and the price history over various time spans. 
+Crypto.io is a Cryptocurrency Tracker App with full responsive functionality. The App allows users to track the current prices of their favourite cryptocurrencies and the price history over various time spans. 
 
 ## Built with 
 
