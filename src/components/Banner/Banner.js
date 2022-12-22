@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            cryptogeek
+            Crypto.io
           </Typography>
           <Typography
             variant="subtitle2"
